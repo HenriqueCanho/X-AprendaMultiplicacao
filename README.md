@@ -1,0 +1,61 @@
+<h1 align="center"> X: Aprenda Multiplicação </h1>
+
+## 📝 Sobre
+
+X: Aprenda Multiplicação! Este é um aplicativo desktop desenvolvido para tornar o aprendizado da multiplicação uma experiência interativa e lúdica.
+
+Ao iniciar o jogo, o usuário se deparará com um desafio envolvendo um número específico, acompanhado por algumas opções de multiplicação. A proposta é selecionar a opção correta que levará ao número indicado na tela.
+
+Seu foco principal é auxiliar crianças, proporcionando uma abordagem envolvente e divertida para o aprendizado das habilidades matemáticas.
+
+## Screenshots
+
+<div align="center">
+
+<img  style="margin: 10px;" src="https://github.com/LaryssaPatez/x-aprenda-multiplicacao/blob/master/Screenshots/Menu.png?raw=true" alt="Print do menu inicial"  width="200">
+<img style="margin: 10px;"src="https://github.com/LaryssaPatez/x-aprenda-multiplicacao/blob/master/Screenshots/Jogar.png?raw=true" alt="Print da tela 'jogar'" width="200">
+<img style="margin: 10px;"src="https://github.com/LaryssaPatez/x-aprenda-multiplicacao/blob/master/Screenshots/Dicas.png?raw=true" alt="Print do menu inicial" width="200">
+
+</div>
+
+### 🔋 Baterias e Vidas
+
+Ao iniciar o jogo, você recebe um total de 10 baterias. Cada uma dessas baterias representa sua vida no jogo. A cada erro cometido, 3 baterias serão retiradas. Se você zerar suas baterias, perderá o jogo.
+
+### 💡Botão de Dicas
+
+Ao clicar no botão "Dicas", você terá acesso a uma página com dicas matemáticas, incluindo tabuadas e sugestões para operações de divisão.
+
+### ✖️ Botão Para Visualizar Tabuada
+
+Ao clicar no botão "Tabuada", você terá acesso a uma aba dedicada contendo a tabuada do 1 ao 10.
+
+## 💾 Tecnologias Utilizadas
+
+<li><a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" rel="nofollow">C#</a>: linguagem de programação</li>
+
+<li><a href="https://docs.unity.com/" rel="nofollow">Unity</a>: Utilizado para criar a interface gráfica e a lógica do aplicativo</li>
+
+<li><a href="" rel="nofollow"> Adobe Photoshop e Illustrator</a>: Ferramentas de design gráfico para criar elementos visuais lúdicos e intuitivos.</li>
+
+## ⚙️ Instalação:
+
+Você pode baixar o X para desktop Windows clicando <a href="https://github.com/LaryssaPatez/x-aprenda-multiplicacao/raw/master/Build/Instalar%20X%20Aprenda%20Multiplica%C3%A7%C3%A3o.exe" rel="nofollow">aqui.</a>
+
+## 👩‍💻 Desenvolvedores
+
+<table>
+<thead>
+<tr>
+
+<th align="center" style="text-align: center;"><a href="https://github.com/grlgmrs"><img src="https://avatars.githubusercontent.com/u/56794007?v=4" width="70" style="max-width: 100%;"><br><sub>@grlgmrs</sub></a></th>
+
+<th align="center" style="text-align: center;"><a href="https://github.com/HenriqueCanho"><img src="https://avatars.githubusercontent.com/u/119677892?v=4" width="70" style="max-width: 100%;"><br><sub>@HenriqueCanho</sub></a></th>
+
+<th align="center" style="text-align: center;"><a href="https://github.com/LaryssaPatez"><img src="https://avatars.githubusercontent.com/u/132311199?v=4" width="70" style="max-width: 100%;"><br><sub>@laryssapatez</sub></a></th>
+
+<th align="center" style="text-align: center;"><a href="https://github.com/saravilareal"><img src="https://avatars.githubusercontent.com/u/101808264?v=4" width="70" style="max-width: 100%;"><br><sub>@saravilareal</sub></a></th>
+
+</tr>
+</thead>
+</table>
